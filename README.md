@@ -21,6 +21,8 @@ var myName = "Brianna";
 console.log(myName);
 ```
 
+<br><br><br><br>
+
 ### Challenge
 
 1. Open your Chrome Developer tools:
